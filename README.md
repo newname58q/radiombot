@@ -7,7 +7,7 @@ Supports Live streaming from youtube.
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @subinps
+(C) @jackdanielssx
 Copyright permission under MIT License
 License -> https://github.com/newname58q/radiombotblob/master/LICENSE
 
